@@ -11,9 +11,10 @@ Data comes from the public JSON API behind the official
 The app runs on Streamlit Community Cloud; anyone can open it on any device
 (phone included) — no download, no install:
 
-> **https://<your-app>.streamlit.app** *(deploy once: push this repo to a
-> public GitHub repo, sign in at [share.streamlit.io](https://share.streamlit.io)
-> with GitHub, pick the repo and `app.py`, done.)*
+> **https://eth-room-finder.streamlit.app** *(deploy once: sign in at
+> [share.streamlit.io](https://share.streamlit.io) with GitHub → New app →
+> repo `timungereth/ETHRoomSearcher`, branch `main`, file `app.py`, and set
+> the subdomain to `eth-room-finder`.)*
 
 Free-tier note: after ~12 h without visitors the app sleeps; the next visitor
 sees a "get this app back up" button and waits ~30 s. Run it locally with
@@ -25,7 +26,7 @@ in between.
 
 ## Download & run (no install)
 
-Grab the build for your OS from the **Releases** page, unzip, run:
+Grab the build for your OS from the [**Releases** page](https://github.com/timungereth/ETHRoomSearcher/releases), unzip, run:
 
 | OS | File | Note |
 |---|---|---|

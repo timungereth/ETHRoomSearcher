@@ -14,3 +14,8 @@ venv/
 build/
 dist/
 *.spec
+
+# generated output snapshots
+free_rooms*.csv
+free_rooms*.json
+editCSV/
