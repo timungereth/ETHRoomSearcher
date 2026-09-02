@@ -9,3 +9,8 @@ venv/
 
 # uv
 .uv/
+
+# build artefacts
+build/
+dist/
+*.spec

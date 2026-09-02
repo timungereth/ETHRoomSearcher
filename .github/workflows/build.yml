@@ -1,0 +1,67 @@
+name: build
+
+on:
+  push:
+    tags: ["v*"]
+  workflow_dispatch:
+
+jobs:
+  build:
+    name: ${{ matrix.artifact }}
+    runs-on: ${{ matrix.os }}
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          - os: ubuntu-22.04            # oldest runner = widest glibc compat
+            artifact: eth-room-finder-linux-x86_64
+            pack: tar -czf eth-room-finder-linux-x86_64.tar.gz -C dist eth-room-finder
+            file: eth-room-finder-linux-x86_64.tar.gz
+          - os: windows-latest
+            artifact: eth-room-finder-windows-x86_64
+            pack: 7z a eth-room-finder-windows-x86_64.zip ./dist/eth-room-finder.exe
+            file: eth-room-finder-windows-x86_64.zip
+          - os: macos-latest            # Apple Silicon
+            artifact: eth-room-finder-macos-arm64
+            pack: ditto -c -k --keepParent dist/eth-room-finder.app eth-room-finder-macos-arm64.zip
+            file: eth-room-finder-macos-arm64.zip
+          - os: macos-15-intel          # Intel Macs
+            artifact: eth-room-finder-macos-x86_64
+            pack: ditto -c -k --keepParent dist/eth-room-finder.app eth-room-finder-macos-x86_64.zip
+            file: eth-room-finder-macos-x86_64.zip
+    steps:
+      - uses: actions/checkout@v4
+      - uses: astral-sh/setup-uv@v6
+      - run: uv sync
+      - run: uv run pyinstaller --noconfirm --clean --onefile --windowed --name eth-room-finder gui.py
+      - name: Smoke test (headless --check hits the live API)
+        shell: bash
+        run: |
+          if [[ "$RUNNER_OS" == "Windows" ]]; then
+            ./dist/eth-room-finder.exe --check
+          else
+            ./dist/eth-room-finder --check
+          fi
+      - name: Package
+        shell: bash
+        run: ${{ matrix.pack }}
+      - uses: actions/upload-artifact@v4
+        with:
+          name: ${{ matrix.artifact }}
+          path: ${{ matrix.file }}
+
+  release:
+    if: startsWith(github.ref, 'refs/tags/')
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/download-artifact@v4
+        with:
+          path: artifacts
+          merge-multiple: true
+      - uses: softprops/action-gh-release@v2
+        with:
+          files: artifacts/*
+          generate_release_notes: true
