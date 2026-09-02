@@ -6,6 +6,23 @@ filters for minimum seats, "free until at least", and room type.
 Data comes from the public JSON API behind the official
 [roominfo page](https://ethz.ch/staffnet/en/service/rooms-and-buildings/roominfo.html).
 
+## Use in the browser (easiest — nothing to install)
+
+The app runs on Streamlit Community Cloud; anyone can open it on any device
+(phone included) — no download, no install:
+
+> **https://<your-app>.streamlit.app** *(deploy once: push this repo to a
+> public GitHub repo, sign in at [share.streamlit.io](https://share.streamlit.io)
+> with GitHub, pick the repo and `app.py`, done.)*
+
+Free-tier note: after ~12 h without visitors the app sleeps; the next visitor
+sees a "get this app back up" button and waits ~30 s. Run it locally with
+`uv run --group web streamlit run app.py`.
+
+Why not a plain static web page? The ETH API sends no CORS headers, so a
+browser cannot call it directly — a small server (Streamlit here) has to sit
+in between.
+
 ## Download & run (no install)
 
 Grab the build for your OS from the **Releases** page, unzip, run:

@@ -24,8 +24,6 @@ from tkinter import filedialog, messagebox, ttk
 
 import room_core as core
 
-DETAIL_URL = ("https://ethz.ch/staffnet/en/service/rooms-and-buildings/"
-              "roominfo/detail.html?building={b}&floor={f}&room={r}")
 MODES = ("Free only", "Free + no data", "All")
 COLS = ("room", "seats", "from", "until", "type", "status", "info")
 HEADINGS = {"room": "Room", "seats": "Seats", "from": "Free from",
@@ -286,19 +284,7 @@ class App:
         return True
 
     def info_text(self, r: dict) -> str:
-        st = core.status_of(r)
-        if st == "NO DATA":
-            return "no occupancy published — not guaranteed free"
-        if st == "BUSY":
-            b = r["blocking"][0]
-            return f"{b['from']:%H:%M}–{b['to']:%H:%M}  " \
-                   f"{b['title'] or 'closed/not bookable'}"
-        nxt = next((e for e in r["day"]
-                    if not e["cancelled"] and e["from"] > self.search_at), None)
-        if nxt:
-            return f"next: {nxt['from']:%H:%M}  " \
-                   f"{nxt['title'] or 'closed/not bookable'}"
-        return "nothing else booked that day"
+        return core.info_text(r, self.search_at)
 
     def refresh(self, *_ignored) -> None:
         if not self.results:
@@ -363,7 +349,7 @@ class App:
         sel = self.tree.selection()
         r = self.by_iid.get(sel[0]) if sel else None
         if r:
-            webbrowser.open(DETAIL_URL.format(b=r["building"], f=r["floor"],
+            webbrowser.open(core.DETAIL_URL.format(b=r["building"], f=r["floor"],
                                               r=r["roomnr"]))
 
     def on_export(self) -> None:

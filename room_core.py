@@ -29,6 +29,8 @@ from urllib.parse import quote
 import httpx
 
 BASE = "https://ethz.ch/bin/ethz/roominfo"
+DETAIL_URL = ("https://ethz.ch/staffnet/en/service/rooms-and-buildings/"
+              "roominfo/detail.html?building={b}&floor={f}&room={r}")
 ROOMS_URL = f"{BASE}?path=/v2/rooms&lang=en"
 HEADERS = {"User-Agent": "Mozilla/5.0", "Accept": "application/json"}
 
@@ -139,3 +141,18 @@ def status_of(r: dict) -> str:
     if not r["covered"]:
         return "NO DATA"
     return "FREE" if r["free"] else "BUSY"
+
+
+def info_text(r: dict, at: datetime) -> str:
+    """One-line 'current / next booking' summary for a result row."""
+    st = status_of(r)
+    if st == "NO DATA":
+        return "no occupancy published — not guaranteed free"
+    if st == "BUSY":
+        b = r["blocking"][0]
+        return f"{b['from']:%H:%M}–{b['to']:%H:%M}  "                f"{b['title'] or 'closed/not bookable'}"
+    nxt = next((e for e in r["day"]
+                if not e["cancelled"] and e["from"] > at), None)
+    if nxt:
+        return f"next: {nxt['from']:%H:%M}  "                f"{nxt['title'] or 'closed/not bookable'}"
+    return "nothing else booked that day"
