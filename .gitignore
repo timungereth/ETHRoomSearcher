@@ -1,0 +1,11 @@
+# LibreOffice / editor lock files
+.~lock.*#
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# uv
+.uv/

@@ -1,0 +1,238 @@
+room,building,seats,type,status,free_from,free_until,bookings_that_day
+CHN C 014,CHN,172,Lecture hall,FREE,12:00,16:00,00:00-08:00 closed/not bookable; 10:00-12:00 Control Systems; 16:00-17:00 Information Security Lab; 20:00-23:59 closed/not bookable
+CHN P 012,CHN,20,Meeting room,FREE,08:00,17:00,00:00-08:00 closed/not bookable; 17:00-19:00 Soil Science Seminar; 20:00-23:59 closed/not bookable
+CLA D 011.1,CLA,10,Meeting room,FREE,08:00,20:00,00:00-08:00 closed/not bookable; 20:00-23:59 closed/not bookable
+CLA D 015,CLA,6,Meeting room,FREE,08:00,20:00,00:00-08:00 closed/not bookable; 20:00-23:59 closed/not bookable
+CLA D 017,CLA,12,Meeting room,FREE,08:00,20:00,00:00-08:00 closed/not bookable; 20:00-23:59 closed/not bookable
+CLA D 019,CLA,12,Meeting room,FREE,08:00,20:00,00:00-08:00 closed/not bookable; 20:00-23:59 closed/not bookable
+CLA J 001,CLA,22,Meeting room,FREE,12:30,20:00,00:00-08:00 closed/not bookable; 09:00-10:15 Gruppenmeeting Studieninteressierte und BSc-Studierende ; 11:00-12:30 Introductory Meeting Scientific Research ; 20:00-23:59 closed/not bookable
+CLA J 003,CLA,8,Meeting room,FREE,11:30,15:00,"00:00-08:00 closed/not bookable; 10:00-11:30 Intervision Gruppe ""SI-Bsc"" ; 15:00-16:00 Legal Training ; 20:00-23:59 closed/not bookable"
+CLA J 005,CLA,4,Meeting room,FREE,08:00,20:00,00:00-08:00 closed/not bookable; 20:00-23:59 closed/not bookable
+ETF B 005,ETF,,Computer,FREE,08:00,20:00,00:00-08:00 closed/not bookable; 20:00-23:59 closed/not bookable
+ETF B 104.1,ETF,,Exercises,FREE,08:00,20:00,00:00-08:00 closed/not bookable; 20:00-23:59 closed/not bookable
+ETF C 109,ETF,12,Meeting room,FREE,08:00,20:00,00:00-08:00 closed/not bookable; 20:00-23:59 closed/not bookable
+ETF D 110,ETF,12,Seminars / Courses,FREE,08:00,20:00,00:00-08:00 closed/not bookable; 20:00-23:59 closed/not bookable
+ETL D 012,ETL,,Laboratory internship,FREE,open,close,
+ETL K 025,ETL,16,Meeting room,FREE,open,close,
+ETZ E 081,ETZ,26,Meeting room,FREE,12:00,15:00,00:00-08:00 closed/not bookable; 08:00-12:00 Schulklassenbesuch St. Fidelis/Stans; 15:00-18:30 FSM: Sitzung Wissenschaftlicher Ausschuss ; 20:00-23:59 closed/not bookable
+ETZ J 064.1,ETZ,20,Meeting room,FREE,08:00,20:00,00:00-08:00 closed/not bookable; 20:00-23:59 closed/not bookable
+GLC E 038.1,GLC,18,Meeting room,FREE,08:00,20:00,00:00-08:00 closed/not bookable; 20:00-23:59 closed/not bookable
+GLC F 026,GLC,10,Meeting room,FREE,08:00,20:00,00:00-08:00 closed/not bookable; 20:00-23:59 closed/not bookable
+HG D 011,HG,,Computer,FREE,08:00,22:00,00:00-08:00 closed/not bookable; 22:00-23:59 closed/not bookable
+HG D 012,HG,,Computer,FREE,08:00,22:00,00:00-08:00 closed/not bookable; 22:00-23:59 closed/not bookable
+HG D 022,HG,18,Seminars / Courses,FREE,08:00,22:00,00:00-08:00 closed/not bookable; 22:00-23:59 closed/not bookable
+HG D 028.2,HG,,Exhibition space,FREE,08:00,22:00,00:00-08:00 closed/not bookable; 22:00-23:59 closed/not bookable
+HG D 030.0065,HG,,Exhibition space,FREE,08:00,16:00,00:00-08:00 closed/not bookable; 16:00-20:00 Remote Talk: ETH Game Dev Club x Moritz Baier-Lentz; 22:00-23:59 closed/not bookable
+HG D 030.0075,HG,,Exhibition space,FREE,08:00,18:00,00:00-08:00 closed/not bookable; 18:00-21:45 Vortrag; 22:00-23:59 closed/not bookable
+HG E 019,HG,,Computer,FREE,08:00,16:00,00:00-08:00 closed/not bookable; 16:00-19:00 Engineering Design and Material Selection; 22:00-23:59 closed/not bookable
+HG E 026.1,HG,,Computer,FREE,08:00,16:00,00:00-08:00 closed/not bookable; 16:00-19:00 Engineering Design and Material Selection; 22:00-23:59 closed/not bookable
+HG E 026.3,HG,,Computer,FREE,08:00,16:00,00:00-08:00 closed/not bookable; 16:00-19:00 Engineering Design and Material Selection; 22:00-23:59 closed/not bookable
+HG E 027,HG,,Computer,FREE,08:00,22:00,00:00-08:00 closed/not bookable; 22:00-23:59 closed/not bookable
+HG E 030.0015,HG,,Exhibition space,FREE,08:00,22:00,00:00-08:00 closed/not bookable; 22:00-23:59 closed/not bookable
+HG E 030.0065,HG,,Exhibition space,FREE,08:00,16:00,00:00-08:00 closed/not bookable; 16:00-20:00 Foyer für 227-1631-10 S Case Studies: Energy Systems and Technology (Part 1); 22:00-23:59 closed/not bookable
+HG E 030.0075,HG,,Exhibition space,FREE,08:00,16:00,00:00-08:00 closed/not bookable; 16:00-20:00 AMIV kontakt Job Fair Panel Discussion; 22:00-23:59 closed/not bookable
+HG E 041,HG,50,Seminars / Courses,FREE,12:00,16:00,00:00-08:00 closed/not bookable; 10:00-12:00 Landscape Level Forest Management Planning; 16:00-18:00 Human Computer Interaction; 18:00-22:00 Neurodivergent-friendly boardgames night ; 22:00-23:59 closed/not bookable
+HG EO 030.0065,HG,,Exhibition space,FREE,08:00,22:00,00:00-08:00 closed/not bookable; 22:00-23:59 closed/not bookable
+HG F 030,HG,421,Lecture hall,FREE,12:00,15:00,00:00-08:00 closed/not bookable; 08:00-12:00 AI Policy Summit 2026 ; 15:00-21:45 Einführungs- und Abschiedsvorlesungen (HS 2026); 22:00-23:59 closed/not bookable
+HG F 030.0053,HG,,Exhibition space,FREE,08:00,15:00,00:00-08:00 closed/not bookable; 15:00-21:45 Einführungs- und Abschiedsvorlesungen (HS 2026); 22:00-23:59 closed/not bookable
+HG F 033.1,HG,42,Meeting room,FREE,12:00,16:00,00:00-08:00 closed/not bookable; 09:00-12:00 Doktorprüfung ; 16:00-17:00 Intervision Bes-MSc; 22:00-23:59 closed/not bookable
+HG F 033.2,HG,14,Meeting room,FREE,12:00,22:00,00:00-08:00 closed/not bookable; 08:00-12:00 Sitzung RD; 22:00-23:59 closed/not bookable
+HG F 033.3,HG,14,Meeting room,FREE,08:00,15:00,00:00-08:00 closed/not bookable; 15:00-16:00 Taskforce Onboarding Woche ; 22:00-23:59 closed/not bookable
+HG F 033.5,HG,36,Meeting room,FREE,12:00,16:00,00:00-08:00 closed/not bookable; 09:45-12:00 Kerngruppe KGS Notfallplanung ; 16:00-17:00 Intervision Si-BSc; 22:00-23:59 closed/not bookable
+HG G 019.1,HG,58,Seminars / Courses,FREE,10:00,22:00,00:00-08:00 closed/not bookable; 08:00-10:00 Numerical Methods for CSE; 22:00-23:59 closed/not bookable
+HG G 019.2,HG,36,Seminars / Courses,FREE,08:00,22:00,00:00-08:00 closed/not bookable; 22:00-23:59 closed/not bookable
+HG G 030.006,HG,,Exhibition space,FREE,08:00,22:00,00:00-08:00 closed/not bookable; 22:00-23:59 closed/not bookable
+HG G 043,HG,30,Seminars / Courses,FREE,08:00,15:00,00:00-08:00 closed/not bookable; 15:00-17:00 Analysis Seminar; 22:00-23:59 closed/not bookable
+HG G 060,HG,95,Multipurpose room,FREE,08:00,22:00,00:00-08:00 closed/not bookable; 22:00-23:59 closed/not bookable
+HG J 029.7,HG,16,Meeting room,FREE,08:00,22:00,00:00-08:00 closed/not bookable; 22:00-23:59 closed/not bookable
+HG K 030.1,HG,40,Seminars / Courses,FREE,08:00,16:00,00:00-08:00 closed/not bookable; 16:00-19:00 Engineering Design and Material Selection; 22:00-23:59 closed/not bookable
+IFW E 042,IFW,24,Seminars / Courses,FREE,08:00,20:00,00:00-08:00 closed/not bookable; 20:00-23:59 closed/not bookable
+LEE E 308,LEE,40,Multipurpose room,FREE,08:00,20:00,00:00-08:00 closed/not bookable; 20:00-23:59 closed/not bookable
+LEE F 118,LEE,18,Meeting room,FREE,12:00,20:00,00:00-08:00 closed/not bookable; 10:00-12:00 Doctoral Workshop: Astute Modelling; 20:00-23:59 closed/not bookable
+LFO C 019,LFO,,Computer,FREE,08:00,20:00,00:00-08:00 closed/not bookable; 20:00-23:59 closed/not bookable
+LFV B 042.1,LFV,,Laboratory internship,FREE,08:00,20:00,00:00-08:00 closed/not bookable; 20:00-23:59 closed/not bookable
+LFV B 042.2,LFV,,Laboratory internship,FREE,08:00,20:00,00:00-08:00 closed/not bookable; 20:00-23:59 closed/not bookable
+LFV C 042,LFV,,Laboratory internship,FREE,08:00,20:00,00:00-08:00 closed/not bookable; 20:00-23:59 closed/not bookable
+LFV E 011,LFV,12,Meeting room,FREE,08:00,20:00,00:00-08:00 closed/not bookable; 20:00-23:59 closed/not bookable
+LFW B 052,LFW,12,Meeting room,FREE,08:00,20:00,00:00-08:00 closed/not bookable; 20:00-23:59 closed/not bookable
+LFW D 012,LFW,16,Meeting room,FREE,08:00,20:00,00:00-08:00 closed/not bookable; 20:00-23:59 closed/not bookable
+LFW E 011,LFW,,Microscopy,FREE,14:00,20:00,00:00-08:00 closed/not bookable; 12:00-14:00 Grundlagen der Mikroskopie und Pflanzenbiologie; 20:00-23:59 closed/not bookable
+LFW E 015,LFW,,Microscopy,FREE,12:00,20:00,00:00-08:00 closed/not bookable; 10:00-12:00 Pflanzenpathologie III; 20:00-23:59 closed/not bookable
+ML F 036,ML,123,Lecture hall,FREE,13:00,20:00,00:00-08:00 closed/not bookable; 09:00-12:00 Bewältigung psychosozialer Anforderungen im Lehrberuf (EW4 DZ); 09:00-12:00 Bewältigung psychosozialer Anforderungen im Lehrberuf (EW4); 12:00-13:00 Behind the Lectures: MAVT Professors Unplugged; 20:00-23:59 closed/not bookable
+ML H 034.1,ML,,Computer,FREE,08:00,20:00,00:00-08:00 closed/not bookable; 20:00-23:59 closed/not bookable
+ML H 051.1,ML,18,Meeting room,FREE,08:00,20:00,00:00-08:00 closed/not bookable; 20:00-23:59 closed/not bookable
+ML J 026,ML,20,Meeting room,FREE,08:00,20:00,00:00-08:00 closed/not bookable; 20:00-23:59 closed/not bookable
+NO CO 001.1,NO,,Computer,FREE,08:00,20:00,00:00-08:00 closed/not bookable; 20:00-23:59 closed/not bookable
+NO D 001,NO,24,Seminars / Courses,FREE,10:00,16:00,00:00-08:00 closed/not bookable; 08:00-10:00 Magmatismus und Metamorphose I; 16:00-18:00 Dynamische Erde I; 20:00-23:59 closed/not bookable
+NO D 039,NO,32,Seminars / Courses,FREE,14:00,20:00,00:00-08:00 closed/not bookable; 12:00-14:00 GIS I: Grundlagen der Geografischen Informationssysteme; 20:00-23:59 closed/not bookable
+NO D 045,NO,80,Seminars / Courses,FREE,08:00,20:00,00:00-08:00 closed/not bookable; 20:00-23:59 closed/not bookable
+ZUE G 001,ZUE,30,Lecture hall,FREE,open,close,
+CAB G 011,CAB,193,Lecture hall,BUSY,12:00,16:00,00:00-08:00 closed/not bookable; 08:00-10:00 Rehabilitation Engineering II: Rehabilitation of Sensory and Vegetative Functions; 10:00-12:00 Probability Theory; 14:00-16:00 Using R for Data Analysis and Graphics (Part I); 16:00-18:00 Biostatistics; 20:00-23:59 closed/not bookable
+CAB G 051,CAB,90,Lecture hall,BUSY,13:00,16:00,00:00-08:00 closed/not bookable; 10:00-12:00 Physically-Based Simulation in Computer Graphics; 12:00-13:00 Seminar in Theoretical Computer Science; 13:00-16:00 Applied Biostatistics; 16:00-17:00 Physically-Based Simulation in Computer Graphics; 17:00-18:00 Privacy Enhancing Technologies; 20:00-23:59 closed/not bookable
+CAB G 052,CAB,40,Seminars / Courses,BUSY,14:00,16:00,00:00-08:00 closed/not bookable; 08:00-10:00 Informatik I; 10:00-12:00 Elektrotechnik I; 12:00-14:00 Interview-Übungen für 252-0025-01L Diskrete Mathmatik; 14:00-16:00 Diskrete Mathematik; 16:00-18:00 Advanced Topics in Embodied Intelligence; 20:00-23:59 closed/not bookable
+CAB G 056,CAB,40,Seminars / Courses,BUSY,12:00,16:00,00:00-08:00 closed/not bookable; 10:00-12:00 Elektrotechnik I; 14:00-16:00 Mathematik I: Analysis I und Lineare Algebra; 16:00-18:00 Signal- und Systemtheorie I; 20:00-23:59 closed/not bookable
+CAB G 057,CAB,24,Seminars / Courses,BUSY,14:00,16:00,00:00-08:00 closed/not bookable; 08:00-10:00 Informatik I; 10:00-12:00 Health Economics; 12:00-14:00 Interview-Übungen für 252-0025-01L Diskrete Mathmatik; 14:00-16:00 Theoretische Informatik; 16:00-18:00 Projects in Topological Data Analysis; 20:00-23:59 closed/not bookable
+CAB G 059,CAB,42,Lecture hall,BUSY,12:00,16:00,00:00-08:00 closed/not bookable; 08:00-10:00 Alien Organisms in Agriculture; 10:00-12:00 Guarantees for Machine Learning; 14:00-16:00 Theoretische Informatik; 16:00-18:00 Informatik; 20:00-23:59 closed/not bookable
+CAB G 061,CAB,193,Lecture hall,BUSY,12:00,20:00,00:00-08:00 closed/not bookable; 08:00-12:00 Power Market I - Portfolio and Risk Management; 13:00-16:00 Biomedical Imaging; 20:00-23:59 closed/not bookable
+CHN D 029,CHN,30,Seminars / Courses,BUSY,13:00,16:00,00:00-08:00 closed/not bookable; 09:00-10:00 Environmental Systems Data Science: Data Processing; 10:00-12:00 Cloud Microphysics; 12:00-13:00 Cloud Microphysics; 14:00-16:00 Diskrete Mathematik; 16:00-17:00 Materials and Mechanics in Medicine; 20:00-23:59 closed/not bookable
+CHN D 042,CHN,30,Seminars / Courses,BUSY,14:00,16:00,00:00-08:00 closed/not bookable; 08:00-10:00 Informatik I; 10:00-12:00 Advanced Ecological Processes; 12:00-14:00 Interview-Übungen für 252-0025-01L Diskrete Mathmatik; 14:00-16:00 Food Enzymology; 16:00-18:00 Algorithms Lab; 18:00-20:00 Algorithms Lab; 20:00-23:59 closed/not bookable
+CHN D 044,CHN,30,Seminars / Courses,BUSY,14:00,16:00,00:00-08:00 closed/not bookable; 09:00-10:00 Environmental Systems Data Science: Data Processing; 11:00-12:00 Environmental Governance; 12:00-14:00 Interview-Übungen für 252-0025-01L Diskrete Mathmatik; 14:00-16:00 Technische Mechanik; 16:00-18:00 Grundzüge des Naturgefahrenmanagements; 20:00-23:59 closed/not bookable
+CHN D 046,CHN,30,Seminars / Courses,BUSY,14:00,16:00,00:00-08:00 closed/not bookable; 09:00-10:00 Environmental Systems Data Science: Data Processing; 10:00-12:00 Physical Medicine and Rehabilitation; 12:00-14:00 Interview-Übungen für 252-0025-01L Diskrete Mathmatik; 14:00-16:00 Diskrete Mathematik; 16:00-18:00 Agroecology; 20:00-23:59 closed/not bookable
+CHN D 048,CHN,30,Seminars / Courses,BUSY,14:00,16:00,00:00-08:00 closed/not bookable; 08:00-10:00 Informatik I; 10:00-12:00 M. Vorbrugg – German 4: A2.2; 12:00-14:00 M. Vorbrugg – German B1.2; 14:00-16:00 Mathematik I; 16:00-18:00 Informatik; 20:00-23:59 closed/not bookable
+CHN E 042,CHN,60,Seminars / Courses,BUSY,14:00,16:00,00:00-08:00 closed/not bookable; 09:00-11:00 Europäische Integration: Seminar; 11:00-12:00 Europäische Integration: Tutorat; 12:00-14:00 Motor Neurorehabilitation; 14:00-16:00 Land-Climate Dynamics; 16:00-18:00 Informatik; 20:00-23:59 closed/not bookable
+CHN E 046,CHN,70,Seminars / Courses,BUSY,13:00,20:00,00:00-08:00 closed/not bookable; 10:00-13:00 Environmental Governance; 14:00-18:00 Environmental Measurement Laboratory; 20:00-23:59 closed/not bookable
+CHN F 042,CHN,54,Seminars / Courses,BUSY,12:00,16:00,00:00-08:00 closed/not bookable; 08:00-10:00 Umweltrecht; 10:00-12:00 Grundzüge des Naturgefahrenmanagements; 14:00-16:00 Isotopes and Biomarkers in Biogeochemistry; 16:00-18:00 Seminar in Evolutionary Ecology of Infectious Diseases; 20:00-23:59 closed/not bookable
+CHN F 046,CHN,60,Seminars / Courses,BUSY,12:00,16:00,00:00-08:00 closed/not bookable; 09:00-10:00 Environmental Systems Data Science: Data Processing; 10:00-12:00 Introduction to Environmental Organic Chemistry; 14:00-16:00 Seminar on Game Technology; 16:00-18:00 Human Computer Interaction; 20:00-23:59 closed/not bookable
+CHN G 042,CHN,70,Seminars / Courses,BUSY,11:00,16:00,00:00-08:00 closed/not bookable; 08:00-10:00 Informatik I; 10:00-11:00 Biostatistics; 13:00-16:00 Visual Computing; 16:00-18:00 The Psychology of Climate Change Communication: Theoretical Insights and Practical Applications; 20:00-23:59 closed/not bookable
+CHN G 046,CHN,30,Seminars / Courses,BUSY,12:00,16:00,00:00-08:00 closed/not bookable; 08:00-10:00 Ecological Parasitology; 10:00-12:00 Elektrotechnik I; 14:00-16:00 Research Topics in Software Engineering; 16:00-17:00 Materials and Mechanics in Medicine; 20:00-23:59 closed/not bookable
+CLA E 004,CLA,36,Seminars / Courses,BUSY,12:00,16:00,00:00-08:00 closed/not bookable; 08:00-10:00 S. Perotti – Intermediate German B1; Course for Professors; 10:00-12:00 Biogeochemistry of Trace Elements; 14:00-16:00 Mathematik I: Analysis I und Lineare Algebra; 16:00-18:00 Lineare Algebra; 20:00-23:59 closed/not bookable
+ETA F 005,ETA,516,Lecture hall,BUSY,12:00,16:00,00:00-08:00 closed/not bookable; 08:00-10:00 Lineare Algebra; 10:00-12:00 Lineare Algebra I; 14:00-16:00 Mechanik I; 16:00-18:00 Principles of Macroeconomics; 20:00-23:59 closed/not bookable
+ETF C 001,ETF,301,Lecture hall,BUSY,13:00,20:00,00:00-08:00 closed/not bookable; 08:00-10:00 VLSI 1: HDL Based Design for FPGAs; 10:00-13:00 Technische Mechanik; 14:00-16:00 Bayesian Statistics; 20:00-23:59 closed/not bookable
+ETF E 001,ETF,301,Lecture hall,BUSY,12:00,20:00,00:00-08:00 closed/not bookable; 10:00-12:00 Lineare Algebra I; 14:00-16:00 Mechanik I; 20:00-23:59 closed/not bookable
+ETZ D 061.1,ETZ,,Computer,BUSY,08:00,20:00,00:00-08:00 closed/not bookable; 13:00-16:00 VLSI 1: HDL Based Design for FPGAs; 20:00-23:59 closed/not bookable
+ETZ D 061.2,ETZ,,Computer,BUSY,08:00,20:00,00:00-08:00 closed/not bookable; 13:00-16:00 VLSI 1: HDL Based Design for FPGAs; 20:00-23:59 closed/not bookable
+ETZ D 096.1,ETZ,,Computer,BUSY,08:00,20:00,00:00-08:00 closed/not bookable; 13:00-16:00 VLSI 1: HDL Based Design for FPGAs; 20:00-23:59 closed/not bookable
+ETZ E 006,ETZ,73,Lecture hall,BUSY,12:00,16:00,"00:00-08:00 closed/not bookable; 10:00-12:00 Grundlagen Latein, Teil 1 (von 2), 1. Gruppe; 14:00-16:00 Hardware Security; 16:00-18:00 Signal- und Systemtheorie I; 20:00-23:59 closed/not bookable"
+ETZ E 007,ETZ,40,Lecture hall,BUSY,12:00,16:00,00:00-08:00 closed/not bookable; 08:00-10:00 Informatik I; 10:00-12:00 Data Conversion System Design; 14:00-16:00 Mathematik I; 16:00-18:00 Lineare Algebra; 18:00-19:00 Signal- und Systemtheorie I; 20:00-23:59 closed/not bookable
+ETZ E 008,ETZ,61,Lecture hall,BUSY,12:00,16:00,00:00-08:00 closed/not bookable; 08:00-10:00 Physiology and Anatomy for Biomedical Engineers I; 10:00-12:00 Molecular Life of Plants; 14:00-16:00 Power Electronic Systems I; 16:00-18:00 Power Electronic Systems I; 20:00-23:59 closed/not bookable
+ETZ E 009,ETZ,40,Lecture hall,BUSY,12:00,16:00,00:00-08:00 closed/not bookable; 10:00-12:00 Elektrotechnik I; 14:00-16:00 Mathematik III; 16:00-18:00 Mathematik III; 20:00-23:59 closed/not bookable
+ETZ F 091,ETZ,32,Seminars / Courses,BUSY,12:00,20:00,00:00-08:00 closed/not bookable; 10:00-12:00 Elektrotechnik I; 14:00-16:00 Mathematik I; 20:00-23:59 closed/not bookable
+ETZ G 091,ETZ,32,Seminars / Courses,BUSY,12:00,20:00,00:00-08:00 closed/not bookable; 08:00-10:00 Informatik I; 10:00-12:00 Elektrotechnik I; 14:00-16:00 Funktionentheorie (Complex Analysis); 20:00-23:59 closed/not bookable
+ETZ H 091,ETZ,32,Seminars / Courses,BUSY,12:00,20:00,00:00-08:00 closed/not bookable; 08:00-10:00 Informatik I; 10:00-12:00 Elektrotechnik I; 14:00-16:00 Technische Mechanik; 20:00-23:59 closed/not bookable
+ETZ J 091,ETZ,32,Seminars / Courses,BUSY,12:00,16:00,00:00-08:00 closed/not bookable; 08:00-10:00 Informatik I; 10:00-12:00 Space Communications; 14:00-16:00 Mathematik III; 16:00-18:00 Mathematik III; 20:00-23:59 closed/not bookable
+ETZ K 091,ETZ,32,Seminars / Courses,BUSY,12:00,16:00,00:00-08:00 closed/not bookable; 10:00-12:00 Ethics in Technology; 14:00-16:00 Optical Communication Fundamentals; 16:00-17:00 Optical Communication Fundamentals; 17:00-18:00 Optical Communication Fundamentals; 20:00-23:59 closed/not bookable
+GLC E 024,GLC,40,Seminars / Courses,BUSY,12:00,20:00,00:00-08:00 closed/not bookable; 08:00-10:00 Informatik I; 10:00-12:00 Elektrotechnik I; 14:00-16:00 Technische Mechanik; 20:00-23:59 closed/not bookable
+GLC E 029.1,GLC,40,Seminars / Courses,BUSY,12:00,20:00,00:00-08:00 closed/not bookable; 10:00-12:00 Elektrotechnik I; 14:00-16:00 Technische Mechanik; 20:00-23:59 closed/not bookable
+GLC E 029.2,GLC,40,Seminars / Courses,BUSY,08:00,20:00,00:00-08:00 closed/not bookable; 14:00-16:00 Technische Mechanik; 20:00-23:59 closed/not bookable
+GLC E 034.1,GLC,40,Seminars / Courses,BUSY,08:00,16:00,"00:00-08:00 closed/not bookable; 14:00-16:00 Technische Mechanik; 16:00-19:00 P&S: Python for Engineers - Get Productive in the Classroom, in the Lab and at Home; 20:00-23:59 closed/not bookable"
+GLC E 034.2,GLC,40,Seminars / Courses,BUSY,08:00,16:00,"00:00-08:00 closed/not bookable; 14:00-16:00 Technische Mechanik; 16:00-19:00 P&S: Python for Engineers - Get Productive in the Classroom, in the Lab and at Home; 20:00-23:59 closed/not bookable"
+GLC E 038.2,GLC,18,Meeting room,BUSY,13:00,20:00,00:00-08:00 closed/not bookable; 10:00-13:00 Single Molecule Biosensors; 14:00-16:00 Furstenberg's Correspondence Principle; 20:00-23:59 closed/not bookable
+HG D 001.1,HG,158,Lecture hall,BUSY,13:00,15:00,00:00-08:00 closed/not bookable; 10:00-12:00 Optimization for Data Science; 12:00-13:00 Partial Differential Equations; 13:00-15:00 Non-Life Insurance: Mathematics and Statistics; 15:00-16:00 Non-Life Insurance: Mathematics and Statistics; 16:00-17:00 Materials and Mechanics in Medicine; 18:00-20:00 Analysis III/Analysis IV - Exam Review ; 22:00-23:59 closed/not bookable
+HG D 001.2,HG,158,Lecture hall,BUSY,14:00,16:00,00:00-08:00 closed/not bookable; 08:00-10:00 Bewegungsapparat; 10:00-12:00 Lebensmittel-Mikrobiologie I; 13:00-14:00 Probabilistic Methods in Combinatorics; 14:00-16:00 Optimization for Data Science; 16:00-18:00 Case Studies Seminar; 22:00-23:59 closed/not bookable
+HG D 003.1,HG,28,Seminars / Courses,BUSY,12:00,17:00,00:00-08:00 closed/not bookable; 08:00-10:00 Informatik I; 10:00-12:00 Elektrotechnik I; 14:00-16:00 Technische Mechanik; 17:00-19:00 Italiano B2-C1: Strutture della lingua; 22:00-23:59 closed/not bookable
+HG D 003.2,HG,90,Lecture hall,BUSY,14:00,16:00,00:00-08:00 closed/not bookable; 10:00-12:00 Numerical Methods for Elliptic and Parabolic Partial Differential Equations; 12:00-14:00 Paraplegie und Sport; 14:00-16:00 Technische Mechanik; 16:00-18:00 Formal Foundations of Programming Languages; 22:00-23:59 closed/not bookable
+HG D 003.3,HG,28,Seminars / Courses,BUSY,12:00,22:00,00:00-08:00 closed/not bookable; 08:00-10:00 Informatik I; 10:00-12:00 Elektrotechnik I; 14:00-16:00 Population Ageing and Pension Economics; 22:00-23:59 closed/not bookable
+HG D 005.1,HG,28,Seminars / Courses,BUSY,14:00,22:00,00:00-08:00 closed/not bookable; 10:00-12:00 Elektrotechnik I; 12:00-14:00 Physik I; 14:00-16:00 Mathematik I; 22:00-23:59 closed/not bookable
+HG D 005.2,HG,94,Lecture hall,BUSY,14:00,16:00,00:00-08:00 closed/not bookable; 10:00-12:00 Mathematical Finance; 12:00-14:00 Foundations of Data Science; 14:00-16:00 Mathematik I; 16:00-17:00 Materials and Mechanics in Medicine; 22:00-23:59 closed/not bookable
+HG D 005.3,HG,28,Seminars / Courses,BUSY,14:00,22:00,00:00-08:00 closed/not bookable; 09:00-12:00 Advanced Space Propulsion System Operations and Equipment Design; 12:00-14:00 Physik I; 14:00-16:00 Mathematik I; 22:00-23:59 closed/not bookable
+HG D 007.1,HG,158,Lecture hall,BUSY,14:00,16:00,00:00-08:00 closed/not bookable; 10:00-12:00 Introduction to Geometric Measure Theory; 12:00-14:00 Analysis III; 14:00-16:00 Analysis III; 16:00-18:00 Analysis I: eine Variable; 18:00-21:00 IT-Compicampus-Kurse ; 22:00-23:59 closed/not bookable
+HG D 007.2,HG,158,Lecture hall,BUSY,14:00,16:00,00:00-08:00 closed/not bookable; 10:00-12:00 Informatik; 12:00-14:00 Analysis III; 14:00-16:00 Psychologie; 16:00-18:00 Nonlinear Dynamics and Chaos I; 18:00-21:45 Vortrag; 22:00-23:59 closed/not bookable
+HG D 016.2,HG,80,Lecture hall,BUSY,08:00,16:00,00:00-08:00 closed/not bookable; 14:00-16:00 Biochemie und Molekulare Biologie; 16:00-18:00 Case Studies Seminar; 22:00-23:59 closed/not bookable
+HG E 001.1,HG,172,Lecture hall,BUSY,14:00,16:00,00:00-08:00 closed/not bookable; 10:00-12:00 Mathematical Foundations for Finance; 12:00-14:00 Lecture Series: Space Research and Exploration; 14:00-16:00 Mass Transfer; 16:00-18:00 Analysis I: eine Variable; 22:00-23:59 closed/not bookable
+HG E 001.2,HG,172,Lecture hall,BUSY,14:00,22:00,00:00-08:00 closed/not bookable; 08:00-10:00 Differential Geometry I; 10:00-12:00 Network Security; 13:00-14:00 Computer Graphics; 14:00-16:00 Sportpsychologie; 22:00-23:59 closed/not bookable
+HG E 003,HG,243,Lecture hall,BUSY,12:00,16:00,00:00-08:00 closed/not bookable; 08:00-10:00 Fundamentals of Mathematical Statistics; 10:00-12:00 Einführung in die Mikroökonomie; 14:00-16:00 Umweltsysteme II; 16:00-22:00 HS 2026 - Sonstige Veranstaltungen; 16:00-20:00 Case Studies: Energy Systems and Technology (Part 1); 22:00-23:59 closed/not bookable
+HG E 004,HG,,Exhibition space,BUSY,08:00,22:00,08:00-21:45 Ausstellung AI to Eye; 00:00-08:00 closed/not bookable; 22:00-23:59 closed/not bookable
+HG E 005,HG,255,Lecture hall,BUSY,12:00,16:00,00:00-08:00 closed/not bookable; 08:00-10:00 Theoretische Informatik; 10:00-12:00 Atmosphäre; 14:00-16:00 Mechanik I; 16:00-21:45 HS 2026 - Sonstige Veranstaltungen; 18:00-20:00 Kulturkickoff; 22:00-23:59 closed/not bookable
+HG E 007,HG,346,Lecture hall,BUSY,13:00,16:00,00:00-08:00 closed/not bookable; 08:00-10:00 Theoretische Informatik; 10:00-12:00 Systems Programming and Computer Architecture; 12:00-13:00 Fundamentals of Mathematical Statistics; 14:00-16:00 Big Data; 16:00-21:45 HS 2026 - Sonstige Veranstaltungen; 16:00-19:00 AMIV kontakt Job Fair Panel Discussion; 22:00-23:59 closed/not bookable
+HG E 021,HG,46,Seminars / Courses,BUSY,14:00,16:00,00:00-08:00 closed/not bookable; 08:00-10:00 Informatik I; 10:00-12:00 Elektrotechnik I; 12:00-14:00 Physik I; 14:00-16:00 Diskrete Mathematik; 16:00-18:00 Informatik; 22:00-23:59 closed/not bookable
+HG E 022,HG,48,Seminars / Courses,BUSY,14:00,16:00,00:00-08:00 closed/not bookable; 10:00-12:00 Seminar für Bachelor-Studierende: Mensch-Umwelt Systeme; 12:00-14:00 Can there be an Alternative Mathematics? Should there be?; 14:00-16:00 Theoretische Informatik; 16:00-18:00 Signal- und Systemtheorie I; 22:00-23:59 closed/not bookable
+HG E 023,HG,38,Seminars / Courses,BUSY,08:00,22:00,00:00-08:00 closed/not bookable; 08:00-22:00 Blockkurse HS26; 22:00-23:59 closed/not bookable
+HG E 030.0025,HG,,Exhibition space,BUSY,08:00,22:00,00:00-08:00 closed/not bookable; 08:00-21:45 Mental Health Awareness Days; 22:00-23:59 closed/not bookable
+HG E 033.1,HG,50,Seminars / Courses,BUSY,14:00,16:00,00:00-08:00 closed/not bookable; 12:00-14:00 Leadership I; 14:00-16:00 Funktionentheorie (Complex Analysis); 16:00-18:00 Informatik; 22:00-23:59 closed/not bookable
+HG E 033.3,HG,50,Seminars / Courses,BUSY,14:00,22:00,00:00-08:00 closed/not bookable; 09:00-10:00 Computational Thinking; 10:00-12:00 Militärpsychologie und -pädagogik I; 12:00-14:00 Behavioral Studies Colloquium; 14:00-16:00 Mathematik I; 22:00-23:59 closed/not bookable
+HG E 033.5,HG,40,Seminars / Courses,BUSY,13:00,16:00,00:00-08:00 closed/not bookable; 10:00-12:00 Elektrotechnik I; 12:00-13:00 Numerical Methods for Elliptic and Parabolic Partial Differential Equations; 14:00-16:00 Diskrete Mathematik; 16:00-18:00 Analysis I: eine Variable; 22:00-23:59 closed/not bookable
+HG E 042,HG,32,Meeting room,BUSY,08:00,22:00,00:00-08:00 closed/not bookable; 08:00-22:00 Fenstersanierung 2026; 22:00-23:59 closed/not bookable
+HG EO 030.0075,HG,,Exhibition space,BUSY,08:00,22:00,00:00-08:00 closed/not bookable; 11:00-15:00 Doktorprüfung ; 22:00-23:59 closed/not bookable
+HG F 001,HG,346,Lecture hall,BUSY,12:00,22:00,00:00-08:00 closed/not bookable; 08:00-10:00 Chemie I; 10:00-12:00 Allgemeine Chemie (für Biol./Pharm.Wiss.); 14:00-16:00 Materials and Mechanics in Medicine; 22:00-23:59 closed/not bookable
+HG F 003,HG,279,Lecture hall,BUSY,12:00,22:00,00:00-08:00 closed/not bookable; 08:00-10:00 Chemie I; 10:00-12:00 Allgemeine Chemie (für Biol./Pharm.Wiss.); 14:00-18:00 Discrete-Time and Statistical Signal Processing; 22:00-23:59 closed/not bookable
+HG F 005,HG,273,Lecture hall,BUSY,14:00,16:00,00:00-08:00 closed/not bookable; 08:00-10:00 Mathematik I; 13:00-14:00 Natural Language Processing; 14:00-16:00 Informatik; 16:00-18:00 Introduction to Mathematical Optimization; 22:00-23:59 closed/not bookable
+HG F 007,HG,346,Lecture hall,BUSY,13:00,16:00,00:00-08:00 closed/not bookable; 08:00-10:00 Mathematik I; 10:00-11:00 Funktionentheorie (Complex Analysis); 11:00-12:00 Mathematische Methoden der Physik I; 12:00-13:00 Model Predictive Control; 14:00-16:00 Informatik; 16:00-18:00 Structural Graph Theory; 22:00-23:59 closed/not bookable
+HG F 026.1,HG,40,Seminars / Courses,BUSY,08:00,22:00,00:00-08:00 closed/not bookable; 08:00-22:00 Blockkurse HS26; 22:00-23:59 closed/not bookable
+HG F 026.3,HG,46,Seminars / Courses,BUSY,08:00,22:00,00:00-08:00 closed/not bookable; 08:00-22:00 Blockkurse HS26; 22:00-23:59 closed/not bookable
+HG F 026.5,HG,46,Seminars / Courses,BUSY,14:00,22:00,00:00-08:00 closed/not bookable; 09:00-12:00 Bewältigung psychosozialer Anforderungen im Lehrberuf (EW4 DZ); 09:00-12:00 Bewältigung psychosozialer Anforderungen im Lehrberuf (EW4); 12:00-14:00 K.Lewis - Advanced academic writing: Moving towards the thesis; 14:00-17:00 Unterstützung und Diagnose von Wissenserwerbsprozessen (EW3); 22:00-23:59 closed/not bookable
+HG F 033.4,HG,14,Meeting room,BUSY,12:00,22:00,00:00-08:00 closed/not bookable; 11:00-12:00 Gruppenmeeting Bes-MSc (StS); 13:30-15:00 FV-Leitungsmeeting ; 22:00-23:59 closed/not bookable
+HG F 050.3,HG,17,Meeting room,BUSY,08:00,22:00,00:00-08:00 closed/not bookable; 08:00-19:00 Meeting Präsident J. Mesot  ; 22:00-23:59 closed/not bookable
+HG F 060.0029,HG,,Exhibition space,BUSY,08:00,15:00,08:00-22:00 Sperrung wegen Fenstersanierung; 00:00-08:00 closed/not bookable; 15:00-21:45 Einführungs- und Abschiedsvorlesungen (HS 2026); 22:00-23:59 closed/not bookable
+HG G 001,HG,,Computer,BUSY,08:00,16:00,00:00-08:00 closed/not bookable; 12:00-16:00 Hands-On Deep Learning; 16:00-19:00 Engineering Design and Material Selection; 22:00-23:59 closed/not bookable
+HG G 003,HG,278,Lecture hall,BUSY,12:00,16:00,00:00-08:00 closed/not bookable; 08:00-10:00 Immunology I; 10:00-12:00 Visual Computing; 14:00-16:00 Management of Digital Transformation; 16:00-18:00 Mathematik IV: Statistik (Mathematics IV: Statistics); 18:00-20:00 Technology Entrepreneurship; 22:00-23:59 closed/not bookable
+HG G 005,HG,279,Lecture hall,BUSY,14:00,16:00,00:00-08:00 closed/not bookable; 10:00-12:00 Robot Dynamics; 12:00-14:00 Algebra I; 14:00-16:00 Renewable Energy Technologies; 16:00-17:00 Renewable Energy Technologies; 22:00-23:59 closed/not bookable
+HG G 026.1,HG,50,Seminars / Courses,BUSY,14:00,16:00,00:00-08:00 closed/not bookable; 09:00-12:00 Bewältigung psychosozialer Anforderungen im Lehrberuf (EW4 DZ); 09:00-12:00 Bewältigung psychosozialer Anforderungen im Lehrberuf (EW4); 12:00-14:00 Philosophical Ethics of Digital Media; 14:00-16:00 Mathematik I; 16:00-18:00 Analysis I: eine Variable; 22:00-23:59 closed/not bookable
+HG G 026.3,HG,30,Seminars / Courses,BUSY,13:00,16:00,00:00-08:00 closed/not bookable; 08:00-10:00 Berufspraktische Übungen I; 10:00-13:00 Fachdidaktik Mathematik I; 14:00-16:00 Funktionentheorie (Complex Analysis); 16:00-18:00 Informatik; 22:00-23:59 closed/not bookable
+HG G 026.5,HG,50,Seminars / Courses,BUSY,14:00,16:00,00:00-08:00 closed/not bookable; 10:00-12:00 Frontiers in Nanotechnology; 12:00-13:00 Mathematics; 13:00-14:00 Mathematics; 14:00-16:00 Diskrete Mathematik; 16:00-18:00 Analysis I: eine Variable; 22:00-23:59 closed/not bookable
+IFW A 032.1,IFW,72,Lecture hall,BUSY,12:00,20:00,00:00-08:00 closed/not bookable; 10:00-12:00 Ausgewählte Kapitel der Physikalischen Chemie; 14:00-18:00 Industrial Process Control; 20:00-23:59 closed/not bookable
+IFW A 034,IFW,30,Seminars / Courses,BUSY,14:00,16:00,00:00-08:00 closed/not bookable; 10:00-12:00 Sozialpsychologie der Gruppe; 12:00-14:00 Interview-Übungen für 252-0025-01L Diskrete Mathmatik; 14:00-16:00 Diskrete Mathematik; 16:00-18:00 Kommandantenstunde 3. Semester; 20:00-23:59 closed/not bookable
+IFW A 036,IFW,176,Lecture hall,BUSY,11:00,20:00,00:00-08:00 closed/not bookable; 08:00-10:00 Die Rolle von Technologie in nationaler und internationaler Sicherheitspolitik; 10:00-11:00 Causality; 14:00-16:00 Strategische Studien I; 20:00-23:59 closed/not bookable
+IFW B 042,IFW,32,Seminars / Courses,BUSY,14:00,16:00,00:00-08:00 closed/not bookable; 10:00-12:00 Philosophische Theorien der Klima(un)gerechtigkeit; 12:00-14:00 A History of the Modern World through Body Parts; 14:00-16:00 Technische Mechanik; 16:00-19:00 U. Gösken -  Arabisch I A1.1; 20:00-23:59 closed/not bookable
+IFW C 031,IFW,30,Seminars / Courses,BUSY,14:00,16:00,"00:00-08:00 closed/not bookable; 10:00-12:00 Richard Powers’ Playground: Oceans, AI, and the Anthropocene; 12:00-14:00 Interview-Übungen für 252-0025-01L Diskrete Mathmatik; 14:00-16:00 Diskrete Mathematik; 16:00-18:00 The Trolley Problem and Ethics for Autonomous Vehicles; 18:00-20:00 C. Consani - German 3; A2; 20:00-23:59 closed/not bookable"
+IFW C 033,IFW,36,Seminars / Courses,BUSY,14:00,16:00,"00:00-08:00 closed/not bookable; 10:00-12:00 Methods I: Research Design, Qualitative Methods, and Data Collection; 12:00-14:00 Interview-Übungen für 252-0025-01L Diskrete Mathmatik; 14:00-16:00 Mathematik III; 16:00-18:00 Mathematik III; 18:00-20:00 Media of the Future; 20:00-23:59 closed/not bookable"
+IFW C 035,IFW,18,Seminars / Courses,BUSY,12:00,20:00,00:00-08:00 closed/not bookable; 08:00-10:00 Tree Genetics – Concepts and Applications; 10:00-12:00 Thermodynamics Applied to Earth Materials; 14:00-18:00 Technology Pathways for the Energy Transition; 20:00-23:59 closed/not bookable
+IFW C 042,IFW,30,Seminars / Courses,BUSY,08:00,20:00,00:00-08:00 closed/not bookable; 08:00-20:00 Blockkurse HS26; 20:00-23:59 closed/not bookable
+IFW D 042,IFW,24,Seminars / Courses,BUSY,14:00,20:00,"00:00-08:00 closed/not bookable; 10:00-12:00 Human-Centered Security & Privacy Lab; 12:00-14:00 Data Science, AI, and Human Rights; 14:00-16:00 Technische Mechanik; 20:00-23:59 closed/not bookable"
+LEE C 104,LEE,35,Seminars / Courses,BUSY,12:00,16:00,00:00-08:00 closed/not bookable; 08:00-12:00 Laboratory Course in Medical Technology; 14:00-16:00 Methods II: Tutorial; 16:00-17:00 Materials and Mechanics in Medicine; 18:00-20:00 Grundlagen der Wissenschaftstheorie für den naturwissenschaftlichen Unterricht; 20:00-23:59 closed/not bookable
+LEE C 114,LEE,40,Seminars / Courses,BUSY,12:00,16:00,00:00-08:00 closed/not bookable; 08:00-12:00 Laboratory Course in Medical Technology; 14:00-16:00 Intermediate Econometrics; 16:00-18:00 Die Gestaltung schulischer Lernumgebungen im Sport (EW2 Sport); 20:00-23:59 closed/not bookable
+LEE D 101,LEE,40,Seminars / Courses,BUSY,12:00,16:00,00:00-08:00 closed/not bookable; 08:00-10:00 O. Martin – German 5: A2.2-B1.1; 10:00-12:00 O. Martin – German 3: A2.1; 14:00-16:00 Funktionentheorie (Complex Analysis); 16:00-18:00 Mathematische Methoden der Physik I; 20:00-23:59 closed/not bookable
+LEE D 105,LEE,40,Seminars / Courses,BUSY,12:00,16:00,00:00-08:00 closed/not bookable; 09:00-12:00 Adaptive Materials for Structural Applications; 14:00-16:00 Funktionentheorie (Complex Analysis); 16:00-18:00 Mathematische Methoden der Physik I; 20:00-23:59 closed/not bookable
+LEE E 101,LEE,62,Lecture hall,BUSY,08:00,20:00,00:00-08:00 closed/not bookable; 10:00-20:00 Departementskonferenz D-MAVT 2026; 20:00-23:59 closed/not bookable
+LEE E 126,LEE,20,Meeting room,BUSY,08:00,20:00,00:00-08:00 closed/not bookable; 08:00-17:00 Workshop Assisted Migration ; 20:00-23:59 closed/not bookable
+LFO C 013,LFO,87,Lecture hall,BUSY,12:00,16:00,00:00-08:00 closed/not bookable; 08:00-10:00 Food Rheology; 10:00-12:00 Physics of Food Colloids; 14:00-16:00 Mathematik I: Analysis I und Lineare Algebra; 16:00-18:00 Analysis I: eine Variable; 20:00-23:59 closed/not bookable
+LFV E 041,LFV,70,Seminars / Courses,BUSY,14:00,16:00,"00:00-08:00 closed/not bookable; 09:00-12:00 The Physics of Space Weather; 12:00-14:00 Analysis III; 14:00-16:00 Food, Habits and Health; 16:00-18:00 Signal- und Systemtheorie I; 20:00-23:59 closed/not bookable"
+LFW B 001,LFW,82,Lecture hall,BUSY,12:00,20:00,00:00-08:00 closed/not bookable; 08:00-12:00 Futtermittel und Fütterung beim Wiederkäuer; 14:00-18:00 Wissenschaftliches Arbeiten Teil II: Wissenschaftliches Schreiben; 20:00-23:59 closed/not bookable
+LFW B 002,LFW,36,Seminars / Courses,BUSY,12:00,16:00,"00:00-08:00 closed/not bookable; 08:00-10:00 Socioeconomics of Agriculture; 10:00-12:00 The Social Brain: Critical Perspectives on Science, Society and Neurodiversity; 14:00-16:00 Theoretische Informatik; 16:00-18:00 Mathematische Methoden der Physik I; 20:00-23:59 closed/not bookable"
+LFW B 003,LFW,36,Seminars / Courses,BUSY,08:00,20:00,00:00-08:00 closed/not bookable; 08:00-20:00 Blockkurse HS26; 20:00-23:59 closed/not bookable
+LFW C 001,LFW,40,Seminars / Courses,BUSY,14:00,16:00,00:00-08:00 closed/not bookable; 08:00-10:00 Informatik I; 10:00-12:00 Elektrotechnik I; 12:00-14:00 Random Hyperbolic Surfaces; 14:00-16:00 Mathematik III; 16:00-18:00 Mathematik III; 20:00-23:59 closed/not bookable
+LFW C 004,LFW,50,Seminars / Courses,BUSY,14:00,16:00,00:00-08:00 closed/not bookable; 08:00-10:00 Informatik I; 10:00-12:00 Applied Bioinformatics: Microbiomes; 12:00-14:00 Insect Ecology; 14:00-16:00 Environmental Analytical Chemistry; 16:00-18:00 Informatik; 20:00-23:59 closed/not bookable
+LFW C 005,LFW,78,Lecture hall,BUSY,12:00,16:00,00:00-08:00 closed/not bookable; 08:00-10:00 Physiology; 10:00-12:00 Werkzeugmaschinen; 14:00-16:00 Mathematik I: Analysis I und Lineare Algebra; 16:00-18:00 Lineare Algebra; 20:00-23:59 closed/not bookable
+LFW C 011,LFW,30,Seminars / Courses,BUSY,14:00,16:00,"00:00-08:00 closed/not bookable; 08:00-10:00 Bioactive Feed Compounds and Enriched Food Products; 10:00-12:00 Introduction to Research on Science, Technology, and Policy; 12:00-14:00 Interview-Übungen für 252-0025-01L Diskrete Mathmatik; 14:00-16:00 Funktionentheorie (Complex Analysis); 16:00-18:00 Mathematische Methoden der Physik I; 20:00-23:59 closed/not bookable"
+LFW E 013,LFW,40,Seminars / Courses,BUSY,14:00,16:00,00:00-08:00 closed/not bookable; 08:00-10:00 Informatik I; 10:00-12:00 Elektrotechnik I; 12:00-14:00 Interview-Übungen für 252-0025-01L Diskrete Mathmatik; 14:00-16:00 Diskrete Mathematik; 16:00-18:00 Lineare Algebra; 20:00-23:59 closed/not bookable
+ML D 028,ML,308,Lecture hall,BUSY,12:00,16:00,"00:00-08:00 closed/not bookable; 10:00-12:00 Einführung in die Programmierung; 14:00-16:00 Algorithms, Probability, and Computing; 16:00-18:00 Machine Learning in Finance and Insurance; 20:00-23:59 closed/not bookable"
+ML E 012,ML,121,Lecture hall,BUSY,14:00,16:00,00:00-08:00 closed/not bookable; 10:00-12:00 Einführung in die Programmierung; 12:00-14:00 Analysis III; 14:00-16:00 Analysis III; 16:00-18:00 Advanced Topics in Communication Networks; 20:00-23:59 closed/not bookable
+ML E 013,ML,21,Meeting room,BUSY,08:00,20:00,00:00-08:00 closed/not bookable; 08:00-20:00 The Power of Study Design; 20:00-23:59 closed/not bookable
+ML F 034,ML,61,Lecture hall,BUSY,14:00,15:00,"00:00-08:00 closed/not bookable; 08:00-10:00 Process Design and Safety; 10:00-12:00 Principles, Efficiency Optimization and Future Applications of IC Engines; 12:00-13:00 Principles, Efficiency Optimization and Future Applications of IC Engines; 13:00-14:00 Process Design and Safety; 14:00-15:00 Probability Theory; 15:00-16:00 Probability Theory; 16:00-18:00 Lineare Algebra; 20:00-23:59 closed/not bookable"
+ML F 038,ML,62,Lecture hall,BUSY,14:00,16:00,00:00-08:00 closed/not bookable; 08:00-10:00 Anatomy and Physiology for Medical Physicists I; 10:00-12:00 Single Molecule Biosensors; 12:00-13:00 Single Molecule Biosensors; 13:00-14:00 Applied Category Theory for Engineering I; 14:00-16:00 Funktionentheorie (Complex Analysis); 16:00-18:00 Mathematische Methoden der Physik I; 20:00-23:59 closed/not bookable
+ML F 039,ML,83,Lecture hall,BUSY,14:00,17:00,"00:00-08:00 closed/not bookable; 10:00-12:00 Krebs: Grundlagen, Ursachen und Therapie; 12:00-14:00 Aerospace Propulsion; 14:00-16:00 Technische Mechanik; 17:00-18:00 Aerospace Propulsion; 20:00-23:59 closed/not bookable"
+ML F 040,ML,40,Seminars / Courses,BUSY,14:00,16:00,00:00-08:00 closed/not bookable; 08:00-10:00 Informatik I; 10:00-12:00 Student Seminar on Mathematics of Data Science: Efficient Sampling of Quadratic Gibbs Measures; 12:00-14:00 S. Perotti – Intermediate German B2; Course for Professors; 14:00-16:00 Bachelor-Seminar I; 16:00-18:00 Informatik; 20:00-23:59 closed/not bookable
+ML H 034.3,ML,24,Seminars / Courses,BUSY,12:00,18:00,00:00-08:00 closed/not bookable; 08:00-10:00 Informatik I; 10:00-12:00 Gewöhnliche Differentialgleichungen; 14:00-16:00 Mathematik I; 18:00-20:00 Algorithms Lab; 20:00-23:59 closed/not bookable
+ML H 037.1,ML,68,Seminars / Courses,BUSY,08:00,19:00,00:00-08:00 closed/not bookable; 08:00-19:00 Therapeutic Skills II; 08:00-19:00 Therapeutic Skills I; 19:00-22:00 ETH Big Band; 20:00-23:59 closed/not bookable
+ML H 041.1,ML,48,Seminars / Courses,BUSY,13:00,15:00,00:00-08:00 closed/not bookable; 08:00-10:00 Research Seminar in Fluid Dynamics; 10:00-13:00 Imaging in Fluid Dynamics; 14:00-15:00 Probability Theory; 15:00-16:00 Probability Theory; 16:00-17:00 Materials and Mechanics in Medicine; 20:00-23:59 closed/not bookable
+ML H 043,ML,32,Seminars / Courses,BUSY,08:00,20:00,00:00-08:00 closed/not bookable; 08:00-20:00 Blockkurse HS26; 20:00-23:59 closed/not bookable
+ML H 044,ML,199,Lecture hall,BUSY,14:00,16:00,00:00-08:00 closed/not bookable; 08:00-10:00 Introduction to Marketing; 10:00-12:00 Economic Dynamics and Complexity; 12:00-13:00 Economic Dynamics and Complexity; 13:00-14:00 Privacy Enhancing Technologies; 14:00-16:00 Security of Wireless Networks; 16:00-18:00 Analysis I: eine Variable; 20:00-23:59 closed/not bookable
+ML J 034.1,ML,36,Seminars / Courses,BUSY,14:00,16:00,00:00-08:00 closed/not bookable; 08:00-10:00 Informatik I; 10:00-12:00 Elektrotechnik I; 12:00-14:00 D. Camorani – The art of speaking: Advanced discussion and vocabulary C1-C2; 14:00-16:00 Funktionentheorie (Complex Analysis); 16:00-18:00 Lineare Algebra; 20:00-23:59 closed/not bookable
+ML J 034.3,ML,30,Seminars / Courses,BUSY,13:00,16:00,"00:00-08:00 closed/not bookable; 08:00-10:00 Informatik I; 10:00-13:00 Material Characterization by X-ray Techniques: Diffraction, Absorption, Total Scattering; 14:00-16:00 Funktionentheorie (Complex Analysis); 16:00-18:00 Mathematische Methoden der Physik I; 20:00-23:59 closed/not bookable"
+ML J 037.1,ML,30,Seminars / Courses,BUSY,14:00,16:00,00:00-08:00 closed/not bookable; 08:00-10:00 Informatik I; 10:00-12:00 P. Blöchlinger – German 1: A1.1; 12:00-14:00 Introduction to Stochastic Optimal Control; 14:00-16:00 Theoretische Informatik; 16:00-18:00 Analysis I: eine Variable; 20:00-23:59 closed/not bookable
+MM C 078.1,MM,80,Multipurpose room,BUSY,14:00,22:00,00:00-08:00 closed/not bookable; 08:00-12:00 Gesperrt für Facility Services 2026; 12:00-14:00 VPWW All Hands Meeting; 14:00-22:00 Gesperrt für Facility Services 2026; 22:00-23:59 closed/not bookable
+NO C 006,NO,71,Lecture hall,BUSY,14:00,16:00,00:00-08:00 closed/not bookable; 08:00-12:00 Integrierte Erdsysteme II; 12:00-14:00 Funktionentheorie (Complex Analysis); 14:00-16:00 Funktionentheorie (Complex Analysis); 16:00-18:00 Mathematische Methoden der Physik I; 20:00-23:59 closed/not bookable
+NO C 044,NO,71,Lecture hall,BUSY,14:00,16:00,00:00-08:00 closed/not bookable; 10:00-12:00 Kristalle und Mineralien; 12:00-14:00 Funktionentheorie (Complex Analysis); 14:00-16:00 Planetary Sciences: a Physical Perspective; 14:00-16:00 Introduction to Planetary Sciences; 16:00-18:00 Cell Biophysics; 20:00-23:59 closed/not bookable
+NO C 060,NO,275,Lecture hall,BUSY,13:00,16:00,00:00-08:00 closed/not bookable; 10:00-12:00 Umweltsysteme I; 12:00-13:00 Colloquium Department Earth and Planetary Sciences; 14:00-16:00 Dynamische Erde I; 16:00-18:00 Psychedelic Science: Psychology Pharmacology Physiology Psychotherapy Philosophy Sociology Religion; 20:00-23:59 closed/not bookable
+NO D 011,NO,30,Seminars / Courses,BUSY,14:00,16:00,00:00-08:00 closed/not bookable; 08:00-12:00 Integrierte Erdsysteme II; 12:00-13:00 Ingenieurgeologie; 13:00-14:00 Ingenieurgeologie; 14:00-16:00 Sedimentology I: Physical Processes and Sedimentary Systems; 16:00-18:00 Economics for Actuaries; 20:00-23:59 closed/not bookable
+NO D 069,NO,24,Seminars / Courses,BUSY,10:00,16:00,00:00-08:00 closed/not bookable; 08:00-10:00 Magmatismus und Metamorphose I; 14:00-16:00 Physical Properties of Minerals; 16:00-18:00 Microscopy of Metamorphic Rocks; 20:00-23:59 closed/not bookable
+NO E 011,NO,30,Seminars / Courses,BUSY,13:00,16:00,00:00-08:00 closed/not bookable; 08:00-10:00 Dynamische Erde I; 10:00-12:00 Collisional Kinetic Theory: Entropy and Fisher Information; 12:00-13:00 Mechanik I; 14:00-16:00 Diskrete Mathematik; 16:00-18:00 Dynamische Erde I; 20:00-23:59 closed/not bookable
+NO E 039,NO,30,Seminars / Courses,BUSY,14:00,16:00,00:00-08:00 closed/not bookable; 08:00-12:00 Rock Mechanics and Rock Engineering; 12:00-14:00 Interview-Übungen für 252-0025-01L Diskrete Mathmatik; 14:00-16:00 Diskrete Mathematik; 16:00-18:00 Dynamische Erde I; 20:00-23:59 closed/not bookable
+RZ D 008,RZ,80,Seminars / Courses,BUSY,14:00,20:00,00:00-08:00 closed/not bookable; 08:00-12:00 Phytotherapie interprofessionell; 12:00-14:00 Vitra Test Slots; 14:00-18:00 Innovationsprojekt; 20:00-23:59 closed/not bookable
+RZ F 021,RZ,64,Seminars / Courses,BUSY,11:00,16:00,00:00-08:00 closed/not bookable; 08:00-11:00 Medical Technology Innovation - From Concept to Clinics; 14:00-16:00 Technische Mechanik; 16:00-18:00 Gleise und Grenzerfahrungen: Eine Literaturgeschichte der Eisenbahn; 20:00-23:59 closed/not bookable
+CAB E 009.001,CAB,,Exterior event areas,NO DATA,,,
+CAB E 009.002,CAB,,Exterior event areas,NO DATA,,,
+CAB E 097.001,CAB,,Exterior event areas,NO DATA,,,
+CAB E 098.001,CAB,,Exterior event areas,NO DATA,,,
+CAB G 010.0055,CAB,,Exhibition space,NO DATA,,,
+CHN D 008,CHN,,Multipurpose room,NO DATA,,,
+CLA D 005.001,CLA,,Exhibition space,NO DATA,,,
+ETF C 106,ETF,,Exercises,NO DATA,,,
+ETL C 023.2,ETL,,Laboratory internship,NO DATA,,,
+ETL D 010.1,ETL,,Exercises,NO DATA,,,
+ETL F 031,ETL,159,Training room,NO DATA,,,
+ETL G 010.1,ETL,10,Training room,NO DATA,,,
+ETL I 010.1,ETL,10,Meeting room,NO DATA,,,
+ETZ D 097.1,ETZ,,Laboratory internship,NO DATA,,,
+ETZ E 060.0032,ETZ,,Exhibition space,NO DATA,,,
+ETZ E 090.1,ETZ,,Exhibition space,NO DATA,,,
+ETZ E 090.2,ETZ,,Exhibition space,NO DATA,,,
+GLC E 010.002,GLC,,Exhibition space,NO DATA,,,
+GLC E 010.003,GLC,,Exterior event areas,NO DATA,,,
+HAA E 003,HAA,22,Meeting room,NO DATA,,,
+HG F 030.0029,HG,,Exhibition space,NO DATA,,,
+HG G 060.0025,HG,,Exhibition space,NO DATA,,,
+HG J 031.5,HG,16,Meeting room,NO DATA,,,
+HG KO 033,HG,,Computer,NO DATA,,,
+LEE E 100.005,LEE,,Exhibition space,NO DATA,,,
+LEH C 005,LEH,12,Meeting room,NO DATA,,,
+LFW B 041,LFW,,Exhibition space,NO DATA,,,
+LFW D 010.2,LFW,,Exterior event areas,NO DATA,,,
+LFW E 055,LFW,,Laboratory internship,NO DATA,,,
+ML E 030.003,ML,,Exhibition space,NO DATA,,,
+ML J 034.2,ML,,Computer,NO DATA,,,
+MM D 080.1,MM,,Exterior event areas,NO DATA,,,
+MM D 080.2,MM,,Exterior event areas,NO DATA,,,
+MM D 080.3,MM,,Exterior event areas,NO DATA,,,
+MM D 080.4,MM,,Exterior event areas,NO DATA,,,
+PFA G 044,PFA,10,Meeting room,NO DATA,,,
+SEC B 003,SEC,14,Meeting room,NO DATA,,,
