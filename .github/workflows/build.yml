@@ -32,7 +32,21 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: astral-sh/setup-uv@v6
-      - run: uv sync
+      # On Linux, uv's newest managed Python bundles Tcl/Tk 9, whose shared
+      # libs PyInstaller fails to collect (libtcl9tk9.0.so missing at
+      # runtime). GitHub's toolcache Python ships Tk 8.6, which works.
+      - uses: actions/setup-python@v5
+        if: runner.os == 'Linux'
+        with:
+          python-version: "3.12"
+      - name: Sync dependencies
+        shell: bash
+        run: |
+          if [[ "$RUNNER_OS" == "Linux" ]]; then
+            uv sync --python "$(which python)"
+          else
+            uv sync
+          fi
       - run: uv run pyinstaller --noconfirm --clean --onefile --windowed --name eth-room-finder gui.py
       - name: Smoke test (headless --check hits the live API)
         shell: bash
